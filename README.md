@@ -50,11 +50,8 @@ Parte destes projetos faz parte da minha atuação profissional; o código não 
 ## GitHub
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=DenisOracio&show_icons=true&hide_border=true&bg_color=00000000&title_color=2F81F7&icon_color=58A6FF&text_color=C9D1D9" alt="Estatísticas do GitHub" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisOracio&layout=compact&hide_border=true&bg_color=00000000&title_color=2F81F7&text_color=C9D1D9" alt="Linguagens mais usadas" />
+  <a href="https://github.com/DenisOracio?tab=repositories">Ver repositórios e atividade no GitHub</a><br /><br />
   <img width="680" src="https://streak-stats.demolab.com?user=DenisOracio&theme=github-dark-blue&hide_border=true&background=00000000" alt="Sequência de contribuições" />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DenisOracio&bg_color=0d1117&color=58a6ff&line=2f81f7&point=c9d1d9&area=true&hide_border=true" alt="Gráfico de atividade" />
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=DenisOracio&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" alt="Conquistas do GitHub" />
 </div>
 
 ## Contribuições
